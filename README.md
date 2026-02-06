@@ -14,6 +14,7 @@ I've spent my career bridging **technology and people** — from API development
 - **Prompt Engineer** — designing effective human-AI interactions
 - **AI Ethics & Governance** — responsible AI implementation
 - **Process Developer** — AI-augmented workflow design
+- **Software Development** — Team Lead, Tech Lead, Senior Developer
 - Lead & Head roles in transformation
 - Interesting collaborations and ideas — reach out!
 
