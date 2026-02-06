@@ -1,7 +1,7 @@
 # Hi, I'm Arto Oinonen 👋
 ### Tech Generalist | Developer, Product Manager, Integration Specialist
 
-I've spent my career bridging **technology and people** — from API development to customer support leadership, from service management to technical training. In the AI era, **generalists who can connect dots across domains are more valuable than ever**.
+**Years of industry experience** building quality software, integrations, and processes. I bridge **technology and people** — from API development to customer support leadership, from service management to technical training. In the AI era, **generalists who can connect dots across domains are more valuable than ever**.
 
 💡 **What I Bring:**
 - **Process Transformation**: Driving quality through process changes, not just tools
