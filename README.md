@@ -1,7 +1,7 @@
-# Hi, I'm Artturi 👋
-### Developer & AI Enthusiast
+# Hi, I'm Arto Oinonen 👋
+### Tech Generalist | Developer, Product Manager, Integration Specialist
 
-I build **real-time web apps** and **AI-powered developer tools**. My focus is on serverless architectures and beautiful, functional interfaces.
+I build **real-time web apps**, **AI-powered tools**, and **seamless integrations**. Background spans service management, API development, customer support leadership, and technical training.
 
 🚀 **Current Projects:**
 - **[Ralli](https://github.com/traali/Ralli)** — Real-time scavenger hunt platform (React + Supabase)
