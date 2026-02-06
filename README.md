@@ -10,9 +10,15 @@ I've spent my career bridging **technology and people** — from API development
 - **Culture Change**: Making transformation stick through people, not just systems
 
 🎯 **Open To:**
+- **AI Architect / Head of AI** — strategic direction for AI initiatives
+- **Prompt Engineer** — designing effective human-AI interactions
+- **AI Ethics & Governance** — responsible AI implementation
+- **Process Developer** — AI-augmented workflow design
+- Lead & Head roles in transformation
 - Interesting collaborations and ideas — reach out!
-- Roles where I can **orchestrate AI + human workflows**
-- Teams building **AI-powered products** that need someone who speaks both tech and business
+
+🔑 **Keywords for AI Era:**
+`AI Governance` · `Multi-Agent Systems` · `Human-AI Collaboration` · `MCP` · `CrewAI` · `Change Management` · `AI Workflow Design`
 
 🚀 **Current Projects:**
 - **[Ralli](https://github.com/traali/Ralli)** — Real-time scavenger hunt platform (React + Supabase)
@@ -26,4 +32,4 @@ I've spent my career bridging **technology and people** — from API development
 - **DevOps:** Biome, Vite, GitHub Actions
 
 📫 **Contact:**
-- [LinkedIn](#) | [Email](#)
+- [LinkedIn](https://www.linkedin.com/in/aoinonen/) | r2.oinonen@gmail.com
