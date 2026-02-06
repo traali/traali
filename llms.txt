@@ -1,0 +1,39 @@
+# Arto Oinonen — AI & Process Specialist
+
+## Summary
+Tech generalist with years of industry experience building quality software, integrations, and processes. I bridge technology and people — from API development to customer support leadership, from service management to technical training. In the AI era, generalists who can connect dots across domains are more valuable than ever.
+
+## Specializations
+- AI Governance & Compliance (EU AI Act, NIST AI RMF)
+- Multi-Agent Systems (CrewAI, MCP, Agent Orchestration)
+- Process Transformation & Change Management
+- Human-AI Collaboration & Workflow Design
+- Software Development & Integration Architecture
+
+## Keywords
+EU AI Act, AI Governance, NIST AI RMF, AI Compliance, Model Risk Management, Multi-Agent Systems, MCP, Agent Orchestration, Human-AI Collaboration, Change Management, Process Developer, Tech Lead, Team Lead, Software Development, Regulation, Legal, Contracts
+
+## Open To
+- AI Architect / Head of AI — strategic direction for AI initiatives
+- Prompt Engineer — designing effective human-AI interactions
+- AI Ethics & Governance — responsible AI implementation
+- Process Developer — AI-augmented workflow design
+- Software Development — Team Lead, Tech Lead, Senior Developer
+- Regulation & Legal — compliance, contracts, tech-legal work
+- Lead & Head roles in transformation
+
+## Current Projects
+- AI-Symphony: Multi-agent AI crew for code generation & business validation (CrewAI, Python)
+- Ralli: Real-time scavenger hunt platform (React, Supabase, PWA)
+- Dumppi: Freeride ski forecast with live snow heatmaps (Flutter, Open-Meteo)
+
+## Tech Stack
+- Frontend: React 19, Flutter, Tailwind CSS
+- Backend: Supabase, Cloudflare Workers
+- AI/Agents: CrewAI, MCP, Local LLMs
+- DevOps: Biome, Vite, GitHub Actions
+
+## Contact
+- Email: r2.oinonen@gmail.com
+- LinkedIn: https://linkedin.com/in/aoinonen
+- GitHub: https://github.com/traali
