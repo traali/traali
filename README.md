@@ -15,6 +15,7 @@ I've spent my career bridging **technology and people** — from API development
 - **AI Ethics & Governance** — responsible AI implementation
 - **Process Developer** — AI-augmented workflow design
 - **Software Development** — Team Lead, Tech Lead, Senior Developer
+- **Regulation & Legal** — compliance, contracts, tech-legal work
 - Lead & Head roles in transformation
 - Interesting collaborations and ideas — reach out!
 
