@@ -20,7 +20,7 @@
 - Interesting collaborations and ideas — reach out!
 
 🔑 **Keywords for AI Era:**
-`AI Governance` · `Multi-Agent Systems` · `Human-AI Collaboration` · `MCP` · `CrewAI` · `Change Management` · `AI Workflow Design`
+`EU AI Act` · `AI Governance` · `NIST AI RMF` · `AI Compliance` · `Model Risk Management` · `Multi-Agent Systems` · `MCP` · `Agent Orchestration` · `Human-AI Collaboration` · `Change Management`
 
 🚀 **Current Projects:**
 - **[Ralli](https://github.com/traali/Ralli)** — Real-time scavenger hunt platform (React + Supabase)
