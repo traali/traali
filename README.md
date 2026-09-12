@@ -23,9 +23,12 @@
 `EU AI Act` · `AI Governance` · `NIST AI RMF` · `AI Compliance` · `Model Risk Management` · `Multi-Agent Systems` · `MCP` · `Agent Orchestration` · `Human-AI Collaboration` · `Change Management`
 
 🚀 **Current Projects:**
+- **[Monastic Governance](https://github.com/traali/monastic-governance)** — The Monastic Governance Model for AI Coding Agents: zero-regression, clean-room adversarial auditing, hard-capped rules (<1,500 words), and multi-repo federations.
+- **[Pelipäivä](https://github.com/traali/pelipaiva)** — 100% Local-First Finnish junior sports matchday PWA with zero-auth family sharing and FMI radar.
 - **[Ralli](https://github.com/traali/Ralli)** — Real-time scavenger hunt platform (React + Supabase)
 - **[Dumppi](https://github.com/traali/Dumppi)** — Freeride ski forecast with live snow heatmaps (Flutter)
 - **[AI-Symphony](https://github.com/traali/AI-Symphony)** — Multi-agent AI crew for code generation & business validation
+
 
 🛠 **Tech Stack:**
 - **Frontend:** React 19, Flutter, Tailwind CSS
